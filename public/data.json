@@ -1,0 +1,62 @@
+{
+  "profile": {
+    "name": "Lakshika Thamodharan",
+    "title": "FINANCE EXECUTIVE",
+    "bio": "Finance executive with over 4 years of experience in strategic financial planning and ERP systems. Expertise in communication and people management, driving operational efficiency and growth. Proven ability to lead cross-functional teams and implement innovative financial solutions. Skilled in risk management and enhancing profitability.",
+    "image": "/lakshika.jpg?height=200&width=200",
+    "contacts": {
+      "phone": "+94763199992",
+      "whatsapp": "+94763199992",
+      "email": "lakshikathamodharan@gmail.com",
+      "linkedin":"https://www.linkedin.com/in/lakshika-thamodharan-963661258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "Resume":"https://drive.google.com/file/d/1n2OK44ZBoTqwSQAAzDldowrDP6LFfbEU/view?usp=drive_link"
+    }
+  },
+ "company": {
+   "logo": "/logo.jpg",
+    "name": "Women’s Development Centre",
+    "about": [
+    "In the early 80s, the WDC focused its attention on women’s issues and intervened in domestic violence. As the target group expanded and activities progressed, their attention further expanded to vulnerable groups including children, youth, persons with disabilities, sex workers, etc.In 1986 the WDC registered as an NGO and initiated the Community Development programme, which was an entry point to identifying women’s issues within the communities. The outcome was the Community Based Rehabilitation (CBR) disability programme for mothers of disabled children who were not getting support, and were unable to engage in development activities.",
+    
+    "In the latter part of 1989, the Centre for Crisis Intervention, a shelter for female victims of violence, was established to provide protection, care, and rehabilitation of women and girl survivors of GBV, while they were taking legal action against their perpetrators.",
+    "The establishment of the regional women’s forums began in the year 2000 and in 2001 the ‘Network of Women (NOW)’ was established, organizing small women’s groups into a forum of women’s groups for collective action and influence. At present there are 9 such forums functioning in 7 districts.",
+    "This is all a vision of a great woman, the late Mrs. Pearl Stephen, who was able to understand a woman’s woes and believed in each woman’s potential towards achieving greatness. Today her vision has become a reality through the influence the WDC as an organization has had in positively contributing towards creating a gender equal, just and secure society for all."
+  ],
+  "services": ["Community Development", "The Network of Women", "Community Based Rehabilitation", "Crisis Intervention","Socio-economic justice","Legal Services and Family Counseling","Peace and Reconciliation","Good governance"],
+  "address": "No61, Mulgampola road, Kandy, Sri Lanka",
+  "mapLink": "https://maps.app.goo.gl/awUu1VN6xc72NjDd6"
+},
+  "gallery": [
+    {
+      "id": 1,
+      "title": "",
+      "image": "/g1.jpg?height=300&width=400"
+    },
+    {
+      "id": 2,
+      "title": "",
+      "image": "/g2.jpg?height=300&width=400"
+    },
+    {
+      "id": 3,
+      "title": "",
+      "image": "/g3.jpg?height=300&width=400"
+    },
+    {
+      "id": 4,
+      "title": "",
+      "image": "/g4.jpg?height=300&width=400"
+    },
+    {
+      "id": 5,
+      "title": "",
+      "image": "/g5.jpg?height=300&width=400"
+    },
+    {
+      "id": 6,
+      "title": "",
+      "image": "/g6.jpg?height=300&width=400"
+    }
+  ]
+  
+}
