@@ -19,6 +19,7 @@ interface BusinessCardData {
       whatsapp: string
       email: string
       linkedin: string
+      instagram: string
       Resume: string
     }
   }

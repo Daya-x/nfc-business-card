@@ -1,6 +1,6 @@
 import { Card, CardContent } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
-import { Phone, MessageCircle, Mail, Linkedin, FileText } from "lucide-react"
+import { Phone, MessageCircle, Mail, Linkedin, Instagram,FileText } from "lucide-react"
 import Image from "next/image"
 
 interface ProfileData {
@@ -13,6 +13,7 @@ interface ProfileData {
     whatsapp: string
     email: string
     linkedin: string
+    instagram: string
       Resume: string 
   }
 }
@@ -46,6 +47,12 @@ export function ProfileSection({ data }: ProfileSectionProps) {
       label: "LinkedIn",
       href: data.contacts.linkedin,
       color: "bg-blue-600 hover:bg-blue-700",
+    },
+      {
+      icon: Instagram,
+      label: "Instagram",
+      href: data.contacts.instagram,
+      color: "bg-pink-500 hover:bg-red-600",
     },
     {
       icon: FileText,
